@@ -50,7 +50,7 @@ export default function Navbar() {
 
         {/* LEGAL LINKS (SUBTLE) */}
         <div className="flex items-center gap-[14px] text-[12px] text-white/40">
-          <Link href="/privacy-poicy" className="hover:text-white transition">
+          <Link href="/privacy-policy" className="hover:text-white transition">
             Privacy Policy
           </Link>
           <span className="text-white/10">•</span>
