@@ -113,5 +113,6 @@ export default function Industries() {
         )}
       </div>
     </section>
+    
   );
 }
